@@ -6,6 +6,7 @@
 //
 
 import XCTest
+import Combine
 @testable import CountriesListTask
 
 final class CountriesListTaskTests: XCTestCase {
